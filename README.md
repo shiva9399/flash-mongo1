@@ -330,10 +330,10 @@ while true; do wget -q -O- http://flask-service:5000; done
 ![Minikube Nodes](screenshots/01-minikube-nodes.png)
 
 ### Running Pods
-![Pods](screenshots/02-running-pods.png)
+![Pods](screenshots/01-minikube-nodes.png)
 
 ### Services
-![Services](screenshots/03-services.png)
+![Services](screenshots/01-minikube-nodes.png)
 
 ### Flask Application Response
 ![Flask App](screenshots/04-flask-app-response.png)
